@@ -1,5 +1,5 @@
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
-
+<img width="976" height="685" alt="Screenshot 2025-10-15 214147" src="https://github.com/user-attachments/assets/68df5828-50bb-4587-9189-fbe30888e0ff" />
 ## DATE:
 
 ## AIM: 
